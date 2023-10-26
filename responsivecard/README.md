@@ -1,16 +1,5 @@
-# responsivecard
+# Responsive card
+This responsive card implemented without using MediaQuery.   
+# sample video
+[recording.webm](https://github.com/sahilchaudhari2405/responsive-card/assets/82030235/b8ab31b1-5fa9-4e1c-8987-7b310efa4e18)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
